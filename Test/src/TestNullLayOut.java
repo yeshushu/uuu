@@ -4,6 +4,7 @@ import java.awt.Frame;
 public class TestNullLayOut {
 
 	//测试绝对定位
+	
 	Frame frame = new Frame();
 	Button b1 = new Button("按钮1");
 	Button b2 = new Button("按钮2");
