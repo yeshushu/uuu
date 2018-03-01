@@ -9,6 +9,7 @@ public class TestPinBall {
 	//球拍的高度与宽度
 	int packet_width = 20;
 	int packet_height = 60;
+
 	
 	
 	
